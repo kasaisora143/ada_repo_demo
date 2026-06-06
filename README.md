@@ -27,6 +27,9 @@
 
 ## Suggestion
 
-- suggestion possible
+- Cours de JavaScript
+- Exercices d'algo
 
 ## Contribution
+
+Contribution de Lancelot
